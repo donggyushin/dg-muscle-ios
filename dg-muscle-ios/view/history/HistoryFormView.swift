@@ -86,6 +86,7 @@ struct HistoryFormView: View {
                     }
                 }
             }
+            .scrollIndicators(.hidden)
             
             if saveButtonDisabled == false {
                 Button {
