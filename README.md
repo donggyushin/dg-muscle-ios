@@ -1,6 +1,7 @@
 # dg-muscle-ios
 
-효율적으로 비교하고 기록하여 점진적 과부하를 이루고 근 성장을 이루자는 목적의 프로젝트.
+효율적으로 비교하고 기록하여 점진적 과부하를 이루고 근 성장을 이루자는 목적의 프로젝트. 
+프로젝트 [이곳](https://github.com/DgMuscle/dg-muscle-ios)으로 이전중입니다. 
 
 ### [Introduction](https://judicious-hoof-33e.notion.site/dgmuscle-ios-a7162152c1594a09902d7d6c07da8bdd?pvs=74)
 
